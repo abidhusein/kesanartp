@@ -327,7 +327,7 @@ ul.search li a:hover {
 /** banner section **/
 
 .full_bg {
-     background: url(../images/banner2.jpg);
+     background: url(../images/banner2.jpeg);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -366,6 +366,10 @@ ul.search li a:hover {
 
 .orang {
      color: #e76f64;
+}
+
+.hitammm p {
+     color: #413c31;
 }
 
 .build_box .quote_btn {
